@@ -400,4 +400,12 @@ fun MainPage(navController: NavController) {
 fun MyViewPreview() {
     MainPage(navController = rememberNavController())
 }
-//MM2024
+/**
+ * 1.StartPage
+ * 2.SignUp
+ * 3.SignIn
+ * 4.MainPage
+ * 5.TestPage
+ *
+ * created by Muhammadali
+ * */
