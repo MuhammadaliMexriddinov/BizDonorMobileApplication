@@ -130,9 +130,9 @@ private fun prepareNavigationBarItems(): List<NavigationBarData> {
 
     // add items
     navigationBarItemsList.add(NavigationBarData(label = "Home", R.drawable.bottom1))
-    navigationBarItemsList.add(NavigationBarData(label = "Profile", R.drawable.bottom2))
-    navigationBarItemsList.add(NavigationBarData(label = "Cart", R.drawable.bottom3))
-    navigationBarItemsList.add(NavigationBarData(label = "Settings", R.drawable.bottom4))
+    navigationBarItemsList.add(NavigationBarData(label = "Cart", R.drawable.bottom2))
+    navigationBarItemsList.add(NavigationBarData(label = "Settings", R.drawable.bottom3))
+    navigationBarItemsList.add(NavigationBarData(label = "Profile", R.drawable.bottom4))
 
     return navigationBarItemsList
 }
