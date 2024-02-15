@@ -400,3 +400,10 @@ fun MainPage(navController: NavController) {
 fun MyViewPreview() {
     MainPage(navController = rememberNavController())
 }
+
+/**
+ * 1.StartPage
+ * 2.SignUp
+ * 3.SignIn
+ * 4.MainPage
+ * */
